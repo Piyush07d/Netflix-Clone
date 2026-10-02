@@ -2,7 +2,7 @@
 
 A responsive Netflix-inspired website built to practice frontend development, UI design, layouts, and responsive web development.
 
-🌐 **Live Demo:** [Add your live link here](YOUR_LIVE_LINK)
+🌐 **Live Demo:** [Add your live link here](https://piyush07d.github.io/Netflix-Clone/)
 
 ---
 
